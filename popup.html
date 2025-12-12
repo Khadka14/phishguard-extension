@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>PhishGuard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>PhishGuard</h1>
+    <p class="subtitle">Phishing risk analysis for this page</p>
+
+    <div id="url" class="url"></div>
+
+    <div id="score-box" class="score-box">
+      <div id="score-label" class="score-label">Risk Score:</div>
+      <div id="score-value" class="score-value">--</div>
+      <div id="risk-level" class="risk-level"></div>
+    </div>
+
+    <h2>Findings</h2>
+    <ul id="reasons" class="reasons"></ul>
+
+    <h2>Threat Intelligence</h2>
+    <div id="threat-intel-status" class="info-box">
+      Not checked yet.
+    </div>
+
+    <h2>Domain Age</h2>
+    <div id="domain-age-status" class="info-box">
+      Not checked yet.
+    </div>
+
+    <h2>AI Risk Review (Optional)</h2>
+    <div id="ai-status" class="info-box">
+      AI review not requested yet.
+    </div>
+    <button id="ai-review">Ask AI for a second opinion</button>
+
+    <button id="recheck">Re-scan URL</button>
+
+    <p class="footnote">
+      *Heuristic analysis only. Use this as a helper, not as a guarantee.
+    </p>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

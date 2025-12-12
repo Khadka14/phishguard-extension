@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "PhishGuard - Phishing Detector",
+  "version": "1.0.0",
+  "description": "Analyzes the current website URL and flags potential phishing indicators.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Check this site with PhishGuard"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
