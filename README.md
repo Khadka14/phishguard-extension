@@ -30,6 +30,12 @@ Phishing remains one of the most common attack vectors. This project demonstrate
 - Secure extension design
 - Practical cybersecurity tooling
 
+## Skills Demonstrated
+- Phishing detection & URL analysis
+- Secure browser extension development
+- Client-side threat analysis
+- Git & GitHub version control
+  
 ## Roadmap
 - WHOIS domain age lookup
 - Threat intel API integration
