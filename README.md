@@ -41,9 +41,8 @@ Phishing remains one of the most common attack vectors. This project demonstrate
 - Threat intel API integration
 - AI-assisted risk classification
   
-  ## Demo
-![PhishGuard UI](assets/screenshot1.png)
-Safari extension support<img width="439" height="676" alt="Screenshot 2025-12-12 at 7 27 08 PM" src="https://github.com/user-attachments/assets/fe851812-f27d-4b79-9371-c204263b3184" />
+## Demo
+![PhishGuard UI](<img width="439" height="676" alt="Screenshot 2025-12-12 at 7 27 08 PM" src="https://github.com/user-attachments/assets/fe851812-f27d-4b79-9371-c204263b3184" />
 
 
 Built by **Aalok Khadka**
