@@ -1,4 +1,8 @@
 # PhishGuard – Browser Extension
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Security](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-red)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue)
+
 
 PhishGuard is a lightweight browser extension that analyzes URLs in real time to detect potential phishing attempts using heuristic analysis, threat intelligence, and optional AI-based risk scoring.
 
